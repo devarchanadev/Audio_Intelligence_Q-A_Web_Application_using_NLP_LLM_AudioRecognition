@@ -76,22 +76,23 @@ The system takes spoken language from audio files (such as meetings, interviews,
 
 ### Install Dependencies
 Create a `requirements.txt` file containing:
-streamlit
-pyngrok
-numpy
-librosa
-SpeechRecognition 
-pydub 
-nltk 
-textblob 
-imageio-ffmpeg 
-soundfile 
-transformers 
-torch 
-torchvision 
-torchaudio 
-onnxruntime 
-onnx
+- streamlit
+- pyngrok
+- numpy
+- librosa
+- SpeechRecognition
+- pydub
+- nltk
+- textblob
+- imageio-ffmpeg
+- soundfile
+- transformers
+- torch
+- torchvision
+- torchaudio
+- onnxruntime
+- onnx
+
 
 Then run:
 
@@ -99,9 +100,9 @@ Then run:
 pip install -r requirements.txt
 python -m nltk.downloader punkt
 python -m textblob.download_corpora
+```
 
 **Run the Application:**
-```
 
 ```bash
 streamlit run app.py
@@ -144,5 +145,5 @@ This project demonstrates how to convert raw audio data into actionable insights
 
 <div align="center">
   <a href="https://github.com/devarchanadev/Audio_Intelligence_Q-A_Web_Application_using_NLP_LLM_AudioRecognition" style="padding:8px 16px; background-color:#28a745; color:white; text-decoration:none; border-radius:4px; margin:4px;">View Repository</a>
-  <a href="https://yourdownloadlink.com/audio-reader-qa.zip" style="padding:8px 16px; background-color:#17a2b8; color:white; text-decoration:none; border-radius:4px; margin:4px;">Download Project</a>
+  <a href="https://github.com/devarchanadev/Audio_Intelligence_Q-A_Web_Application_using_NLP_LLM_AudioRecognition/blob/main/audio_analyzer.py" style="padding:8px 16px; background-color:#17a2b8; color:white; text-decoration:none; border-radius:4px; margin:4px;">Download Project</a>
 </div>
