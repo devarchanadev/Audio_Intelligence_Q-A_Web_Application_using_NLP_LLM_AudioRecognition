@@ -1,0 +1,16 @@
+streamlit
+pyngrok
+numpy
+librosa
+SpeechRecognition
+pydub
+nltk
+textblob
+imageio-ffmpeg
+soundfile
+transformers
+torch
+torchvision
+torchaudio
+onnxruntime
+onnx
