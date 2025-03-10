@@ -57,7 +57,7 @@ The system takes spoken language from audio files (such as meetings, interviews,
 
 ---
 
-## Business Impact and Use Cases 💼
+## Business Impact and Use Cases
 | **Use Case**            | **Impact**                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | Meeting Analysis        | Quick transcription and summarization streamline decision-making.         |
