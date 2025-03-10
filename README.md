@@ -4,19 +4,19 @@
   <a href="#project-overview">
     <img src="https://img.shields.io/badge/-Project%20Overview-blue?style=for-the-badge" alt="Project Overview">
   </a>
-  <a href="#implementation-technical-approach">
+  <a href="#implementation-and-technical-approach">
     <img src="https://img.shields.io/badge/-Implementation-green?style=for-the-badge" alt="Implementation">
   </a>
-  <a href="#business-impact-use-cases">
+  <a href="#business-impact-and-use-cases">
     <img src="https://img.shields.io/badge/-Business%20Impact-orange?style=for-the-badge" alt="Business Impact">
   </a>
-  <a href="#installation-deployment">
+  <a href="#installation-and-deployment">
     <img src="https://img.shields.io/badge/-Installation-red?style=for-the-badge" alt="Installation">
   </a>
-  <a href="#key-takeaways--conclusion">
+  <a href="#key-takeaways-and-conclusion">
     <img src="https://img.shields.io/badge/-Takeaways-purple?style=for-the-badge" alt="Key Takeaways">
   </a>
-  <a href="#repository-download-links">
+  <a href="#repository-and-download-links">
     <img src="https://img.shields.io/badge/-Links-pink?style=for-the-badge" alt="Links">
   </a>
 </p>
@@ -30,7 +30,7 @@ The system takes spoken language from audio files (such as meetings, interviews,
 
 ---
 
-## Implementation & Technical Approach
+## Implementation and Technical Approach
 ### Audio Processing & ASR 🗣️
 - **Data Acquisition & Preprocessing:**  
   I use [Librosa](https://librosa.org) and [Pydub](https://github.com/jiaaro/pydub) to load and convert audio files into WAV format, then split them into segments based on silence.
@@ -57,7 +57,7 @@ The system takes spoken language from audio files (such as meetings, interviews,
 
 ---
 
-## Business Impact & Use Cases 💼
+## Business Impact and Use Cases 💼
 | **Use Case**            | **Impact**                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | Meeting Analysis        | Quick transcription and summarization streamline decision-making.         |
@@ -72,7 +72,7 @@ The system takes spoken language from audio files (such as meetings, interviews,
 
 ---
 
-## Installation & Deployment
+## Installation and Deployment
 
 ### Install Dependencies
 Create a `requirements.txt` file containing:
@@ -115,7 +115,7 @@ streamlit run app.py
 
 ---
 
-## Key Takeaways & Conclusion
+## Key Takeaways and Conclusion
 
 ### Integration of Advanced AI Techniques  
 **ASR, NLP, and LLM Integration:**  
@@ -141,7 +141,7 @@ This project demonstrates how to convert raw audio data into actionable insights
 
 ---
 
-## Repository & Download Links
+## Repository and Download Links
 
 <div align="center">
   <a href="https://github.com/devarchanadev/Audio_Intelligence_Q-A_Web_Application_using_NLP_LLM_AudioRecognition" style="padding:8px 16px; background-color:#28a745; color:white; text-decoration:none; border-radius:4px; margin:4px;">View Repository</a>
